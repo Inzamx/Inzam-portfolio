@@ -1,4 +1,4 @@
 # Inzam-portfolio
-My personal portfolio
-###Demo screenshot
-C:\Users\INZAM\OneDrive\Pictures\Screenshots\Screenshot 2025-01-20 214654.png
+<center>My personal portfolio</center>
+Demo screenshot
+![Image](https://github.com/user-attachments/assets/72a887a0-4d65-4235-b2fe-4f5ebe165785)
